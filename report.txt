@@ -1,0 +1,12 @@
+Name:                                                   Zakaria Rahman
+Favorite Math Subject:                                        Geometry
+Confidence Level:                                                    7
+# of Hours Studying Math:                                         7.00
+Estimated Problems Solved Per Hour:                               3.57
+Test Scores-                                      
+Test Score 1:                                                    60.00
+Test Score 2:                                                    70.00
+Test Score 3:                                                    80.00
+Test Score 4:                                                    55.50
+Test Score 5:                                                    60.70
+Average Test Scores:                                             65.24

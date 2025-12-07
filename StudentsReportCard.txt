@@ -1,0 +1,5 @@
+Kamali         12345              A      90                                             Excellent work! Keep up the high performance.
+Rahman         12333              B      90                                             Excellent work! Keep up the high performance.
+Hasan          90902              D      60                                  Needs improvement. Consider extra practice and studying.
+Dash           45454              C      76                                        Fair performance. Focus on improving weaker areas.
+Ahmed          12121              B      85                          Good job! You are doing well, but there is room for improvement.

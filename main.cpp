@@ -33,7 +33,7 @@ struct LearnerProfile {
     double hoursSpentStudyingPerWeek;
 };
 
-struct studentInfo {
+struct StudentInfo {
     string studentLastName;
     string studentID;
     char grade;
@@ -370,7 +370,7 @@ void studentMonthlyReportCard(ofstream& reportOutputFile) {
     cout << endl;
 
     // Creating an array of struct type to hold student information
-    studentInfo students[numberOfStudents];
+    StudentInfo students[numberOfStudents];
 
     reportOutputFile.open("StudentsReportCard.txt");
 
